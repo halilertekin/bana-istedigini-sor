@@ -6,7 +6,7 @@ Eğer Git veya GitHub ile ilgili herhangi bir sorun varsa bunu doğrudan [GitHub
 
 ## Soru sor
 
-Soru sormak için [yeni bir issue](https://github.com/halilertekin/bis/issues/new) açman yeterli olacaktır.
+Soru sormak için [yeni bir issue](hhttps://github.com/halilertekin/bana-istedigini-sor/issues/new) açman yeterli olacaktır.
 
 Ben sorucağın soruyu en kısa zamanda yanıtlamaya çalışıcam. Soruyu yanıtladıktan sonra issueyu kapatabilirim fakat cevabımın yeterli olmaması durumunda issue üzerinden yanıt yazmaktan çekinme.
 
