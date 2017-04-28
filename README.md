@@ -12,7 +12,7 @@ Ben sorucağın soruyu en kısa zamanda yanıtlamaya çalışıcam. Soruyu yanı
 
 ## Bazı soruları oku
 
-Soru sormadan önce [kapalı issuelar](https://github.com/halilertekin/bis/issues?sort=created&direction=desc&state=closed&page=1) arasında arama yapmayı unutma. Sorucağın soruyu önceden yanıtlamış olabilirim.
+Soru sormadan önce [kapalı issuelar](https://github.com/halilertekin/bana-istedigini-sor/issues?q=is%3Aclosed+sort%3Acreated-desc) arasında arama yapmayı unutma. Sorucağın soruyu önceden yanıtlamış olabilirim.
 
 ## Twitter
 
